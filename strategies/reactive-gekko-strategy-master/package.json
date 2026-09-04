@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/DustinJSilk/reactive-gekko-strategy#readme",
   "dependencies": {
-    "toml": "^2.3.3"
+    "toml": "^4.2.0"
   }
 }
